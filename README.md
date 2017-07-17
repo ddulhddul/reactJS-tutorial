@@ -47,11 +47,11 @@ Virtual DOM 을 사용하면, DOM 직접 조작 대신, 추상화시킨 자바�
 2. 이전 Virtual DOM 에 있던 내용과 현재의 내용을 비교합니다.
 3. 바뀐 부분만 실제 DOM 에 적용이 됩니다.
 
-React 버전 v15부터 IE8 이하 버전을 지원하지 않습니다. (IE8 이하 버전을 지원해야 할 경우 v0.14 버전을 사용 해야 합니다.
+> React 버전 v15부터 IE8 이하 버전을 지원하지 않습니다. (IE8 이하 버전을 지원해야 할 경우 v0.14 버전을 사용 해야 합니다.
 
 ### React 해보자
-webpack 이라는 도구를 사용하여 마치 Node.js 에서 require 하는것과 같이 모듈을 불러올 수 있게 하는 것 입니다. 
-webpack 은 이렇게 import(혹은 require) 한 모듈들을 불러와서 한 파일로 합칩니다. 이 작업을 번들링(bundling) 이라고 합니다.
+> webpack 이라는 도구를 사용하여 마치 Node.js 에서 require 하는것과 같이 모듈을 불러올 수 있게 하는 것 입니다. 
+> webpack 은 이렇게 import(혹은 require) 한 모듈들을 불러와서 한 파일로 합칩니다. 이 작업을 번들링(bundling) 이라고 합니다.
 
 
 1편 End

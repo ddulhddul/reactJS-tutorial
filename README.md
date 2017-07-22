@@ -7,6 +7,7 @@
 ## [2편 작업환경 설정하기](./notes/basics/2.md)
 ## [3편 JSX](./notes/basics/3.md)
 ## 4편 Component 생성 및 모듈화
+## [5편 컴포넌트의 State 와 Props 사용하기](./notes/basics/5.md)
 
 
-4편 End
+5편 End

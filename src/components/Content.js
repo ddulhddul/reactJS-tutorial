@@ -5,11 +5,16 @@ class Content extends React.Component {
 
         return (                
             <div>
-                <h2>Content</h2>
-                <p> Hey ! </p>
+                <h2>{this.props.title}</h2>
+                <p>{this.props.body}</p>
             </div>
         );
     }
 }
+
+Content.propTypes = {
+    title: React.PropTypes.string,
+    body: React.PropTypes.string.isRequired
+};
 
 export default Content;

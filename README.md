@@ -8,6 +8,4 @@
 ## [3편 JSX](./notes/basics/3.md)
 ## 4편 Component 생성 및 모듈화
 ## [5편 컴포넌트의 State 와 Props 사용하기](./notes/basics/5.md)
-
-
-5편 End
+## [6-1편 컴포넌트 Iteration (반복) – Map](./notes/basics/6.1.md)

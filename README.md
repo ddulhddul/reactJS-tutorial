@@ -11,3 +11,5 @@
 ## [6-1편 컴포넌트 Iteration (반복) – Map](./notes/basics/6.1.md)
 ## [6-2편 Immutability Helper – State 내부 Array 에 원소 삽입/제거/수정](./notes/basics/6.2.md)
 ## [7편 Component LifeCycle API](./notes/basics/7.md)
+## [8편 ref: DOM에 이름을 달아주자](./notes/basics/8.md)
+## [함수형 컴포넌트 (Functional Component)](./notes/basics/9.md)

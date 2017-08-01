@@ -1,6 +1,21 @@
 # [React.JS](https://velopert.com/reactjs-tutorials)
 > 개인적인 노트필기입니다. 자세한내용은 위의 강좌를 참고하세요.
 ---
+
+```bash
+# How to Start
+$ npm install -g npm
+$ npm init
+$ npm install --save react react-dom
+$ mkdir src src/components public && touch public/index.html src/components/App.js src/index.js webpack.config.js
+
+## 개발환경에서만 사용
+$ npm install --save-dev babel-core babel-loader babel-preset-react babel-preset-es2015 webpack webpack-dev-server
+
+## yarn 이용
+$ create-react-app %ProjectName%
+```
+
 # Basics
 
 ## [1편 소개 및 맛보기](./notes/basics/1.md)
@@ -20,3 +35,4 @@
 ---
 # Redux
 ## [10-1편 Redux: React 앱의 효율적인 데이터 교류](./notes/redux/10-1.md)
+## [10-2편 Redux: 예제를 통해 사용해보기](./notes/redux/10-2.md)

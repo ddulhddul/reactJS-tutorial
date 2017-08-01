@@ -1,6 +1,6 @@
-[React.JS](https://velopert.com/reactjs-tutorials)
+# [React.JS](https://velopert.com/reactjs-tutorials)
 > 개인적인 노트필기입니다. 자세한내용은 위의 강좌를 참고하세요.
-
+---
 # Basics
 
 ## [1편 소개 및 맛보기](./notes/basics/1.md)
@@ -13,7 +13,10 @@
 ## [7편 Component LifeCycle API](./notes/basics/7.md)
 ## [8편 ref: DOM에 이름을 달아주자](./notes/basics/8.md)
 ## [함수형 컴포넌트 (Functional Component)](./notes/basics/9.md)
-
+---
 # Router
 
-## [리액트 라우터 (react-router v4) 강의 [1/3] : 사용 방법](./notes/basics/router1.md)
+## [리액트 라우터 (react-router v4) 강의 [1/3] : 사용 방법](./notes/router/router1.md)
+---
+# Redux
+## [10-1편 Redux: React 앱의 효율적인 데이터 교류](./notes/redux/10-1.md)

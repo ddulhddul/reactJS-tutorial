@@ -12,6 +12,12 @@ $ mkdir src src/components public && touch public/index.html src/components/App.
 ## 개발환경에서만 사용
 $ npm install --save-dev babel-core babel-loader babel-preset-react babel-preset-es2015 webpack webpack-dev-server
 
+### package.json
+npm start 시, webpack-dev-server가 실행되도록
+"scripts": {
+    "start": "webpack-dev-server --hot --host 0.0.0.0"
+},
+
 ## yarn 이용
 $ create-react-app %ProjectName%
 ```
